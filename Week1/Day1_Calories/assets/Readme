@@ -1,0 +1,5 @@
+# Create lib
+cargo new day1_Calories --lib
+
+# Run lib
+cargo run -- assets\input.txt

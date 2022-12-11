@@ -1,0 +1,5 @@
+# Create binary
+cargo new day1_Calories --bin
+
+# Run bin
+cargo run -- assets\input.txt
